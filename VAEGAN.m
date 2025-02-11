@@ -1,5 +1,4 @@
 function [encoderNet,decoderNet,Discriminator,Lossinfo] = VAEGAN(XTrain,YTrain,encoderLG,decoderLG,Discriminator)
-% Arrangement, modification and annotation by Mansheng Lin
 % ANNOTATION:
 % INPUT varibles
 % XTrain —— it is 4-D format, each row is each feature, each colum is each sample
