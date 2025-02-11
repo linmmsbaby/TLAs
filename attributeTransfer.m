@@ -1,5 +1,4 @@
 function [XGeneratedNew, TNew] = attributeTransfer(encoderNet, decoderNet, xto, yto, xfrom, yfrom)
-% Arrangement, modification and annotation by Mansheng Lin
 % ANNOTATION:
 % INPUT variables
 % encoderNet —— the trained encoder
